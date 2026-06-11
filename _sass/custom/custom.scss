@@ -1,0 +1,164 @@
+// SUDAKAS custom styles
+// Executive Elites in Latin America and Southern Europe
+
+// Google Fonts
+@import url("https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;500;600;700&family=Roboto:wght@400;500;700&display=swap");
+
+// Palette
+:root {
+  --sudakas-royal-blue: #1d42a6;
+  --sudakas-sky-blue: #b9d6f2;
+  --sudakas-yellow-ochre: #e2c044;
+  --sudakas-text: #211d1c;
+  --sudakas-muted: #5c5962;
+  --sudakas-soft-bg: #f8f9fb;
+  --sudakas-border: #e6e6e6;
+}
+
+// Typography
+
+body {
+  font-family: "Roboto", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  color: var(--sudakas-text);
+  line-height: 1.65;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.site-title {
+  font-family: "Noto Serif", Georgia, "Times New Roman", serif;
+  color: var(--sudakas-text);
+  letter-spacing: -0.01em;
+}
+
+.main-content h1 {
+  font-weight: 700;
+}
+
+.main-content h2 {
+  margin-top: 2.2rem;
+  padding-bottom: 0.25rem;
+  border-bottom: 1px solid var(--sudakas-border);
+}
+
+.main-content h3 {
+  margin-top: 1.6rem;
+}
+
+// Links
+
+a {
+  color: var(--sudakas-royal-blue);
+}
+
+a:hover {
+  color: darken(#1d42a6, 8%);
+}
+
+// Sidebar and navigation
+
+.side-bar {
+  background-color: var(--sudakas-soft-bg);
+  border-right: 1px solid var(--sudakas-border);
+}
+
+.site-title {
+  color: var(--sudakas-royal-blue);
+  font-weight: 700;
+}
+
+.site-title:hover {
+  background-image: none;
+  color: darken(#1d42a6, 8%);
+}
+
+.nav-list .nav-list-item .nav-list-link {
+  color: var(--sudakas-text);
+}
+
+.nav-list .nav-list-item .nav-list-link:hover {
+  color: var(--sudakas-royal-blue);
+  background-color: rgba(185, 214, 242, 0.35);
+}
+
+.nav-list .nav-list-item.active > .nav-list-link {
+  color: var(--sudakas-royal-blue);
+  font-weight: 600;
+  background-color: rgba(185, 214, 242, 0.45);
+}
+
+// Search
+
+.search-input {
+  font-family: "Roboto", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.search-input:focus {
+  border-color: var(--sudakas-royal-blue);
+}
+
+// Buttons
+
+.btn-primary {
+  background-color: var(--sudakas-royal-blue);
+  background-image: none;
+}
+
+.btn-primary:hover {
+  background-color: darken(#1d42a6, 8%);
+}
+
+// Callouts
+
+.note {
+  border-left: 4px solid var(--sudakas-royal-blue);
+  background-color: rgba(185, 214, 242, 0.25);
+}
+
+.warning {
+  border-left: 4px solid var(--sudakas-yellow-ochre);
+  background-color: rgba(226, 192, 68, 0.18);
+}
+
+.important {
+  border-left: 4px solid var(--sudakas-royal-blue);
+  background-color: rgba(29, 66, 166, 0.08);
+}
+
+// Tables
+
+.main-content table {
+  font-size: 0.95rem;
+}
+
+.main-content th {
+  background-color: rgba(185, 214, 242, 0.35);
+  color: var(--sudakas-text);
+}
+
+// Images and figures
+
+.main-content img {
+  border-radius: 4px;
+}
+
+.figure-caption,
+figcaption {
+  font-size: 0.9rem;
+  color: var(--sudakas-muted);
+  margin-top: 0.4rem;
+}
+
+// Sidebar footer
+
+.site-footer {
+  color: var(--sudakas-muted);
+}
+
+.site-footer a {
+  color: var(--sudakas-royal-blue);
+}

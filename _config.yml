@@ -8,7 +8,8 @@ baseurl: ""
 aux_links:
   Repository: "https://github.com/SUDAKAS/sudakas.github.io"
 
-color_scheme: light
+## color_scheme: light
+color_scheme: sudakas
 
 callouts:
   note:

@@ -1,0 +1,34 @@
+// SUDAKAS colour scheme
+// Oxford-inspired palette without Oxford blue as the main colour.
+
+// Main palette
+$royal-blue: #1d42a6;
+$sky-blue: #b9d6f2;
+$yellow-ochre: #e2c044;
+
+// Neutral palette
+$body-text: #211d1c;
+$muted-text: #5c5962;
+$background: #ffffff;
+$background-soft: #f8f9fb;
+$border-soft: #e6e6e6;
+
+// Just the Docs theme variables
+$body-background-color: $background;
+$sidebar-color: $background-soft;
+$search-background-color: $background;
+$table-background-color: $background;
+
+$body-text-color: $body-text;
+$body-heading-color: $body-text;
+$nav-child-link-color: $muted-text;
+$search-result-preview-color: $muted-text;
+
+$link-color: $royal-blue;
+$btn-primary-color: $royal-blue;
+$base-button-color: $background-soft;
+
+$border-color: $border-soft;
+
+$code-background-color: #f5f7fb;
+$feedback-color: darken($background-soft, 3%);
