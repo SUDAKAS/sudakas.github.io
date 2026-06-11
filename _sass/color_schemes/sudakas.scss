@@ -42,3 +42,18 @@ $feedback-color: darken($background-soft, 3%);
   padding-bottom: 0.35rem;
   border-bottom: 3px solid $peach;
 }
+
+// Heading styling
+
+.main-content h1:first-of-type {
+  color: $royal-blue;
+  padding-bottom: 0.35rem;
+  border-bottom: 3px solid $peach;
+}
+
+.main-content h2,
+.main-content h3 {
+  color: $royal-blue;
+  padding-bottom: 0.25rem;
+  border-bottom: 2px solid $yellow-ochre;
+}
