@@ -1,0 +1,37 @@
+// SUDAKAS colour scheme
+// Executive Elites in Latin America and Southern Europe
+// Oxford-inspired palette with royal blue as the main colour
+// Yellow ochre as a warm secondary accent, and orange as a sharp accent
+
+// Main palette
+$royal-blue: #1d42a6;
+$yellow-ochre: #e2c044;
+$orange: #fb5607;
+
+// Neutral palette
+$body-text: #211d1c;
+$muted-text: #61615f;
+$background: #ffffff;
+$background-soft: #f2f0f0;
+$background-shell: #f1eee9;
+$border-soft: #d9d8d6;
+
+// Just the Docs theme variables
+$body-background-color: $background;
+$sidebar-color: $background-soft;
+$search-background-color: $background;
+$table-background-color: $background;
+
+$body-text-color: $body-text;
+$body-heading-color: $body-text;
+$nav-child-link-color: $muted-text;
+$search-result-preview-color: $muted-text;
+
+$link-color: $royal-blue;
+$btn-primary-color: $royal-blue;
+$base-button-color: $background-shell;
+
+$border-color: $border-soft;
+
+$code-background-color: #f8f7f5;
+$feedback-color: darken($background-soft, 3%);
