@@ -35,3 +35,10 @@ $border-color: $border-soft;
 
 $code-background-color: #f8f7f5;
 $feedback-color: darken($background-soft, 3%);
+
+// Page title styling
+.main-content h1:first-of-type {
+  color: $royal-blue;
+  padding-bottom: 0.35rem;
+  border-bottom: 3px solid $peach;
+}
