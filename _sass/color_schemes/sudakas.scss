@@ -36,24 +36,24 @@ $border-color: $border-soft;
 $code-background-color: #f8f7f5;
 $feedback-color: darken($background-soft, 3%);
 
-// Page title styling
-.main-content h1:first-of-type {
-  color: $royal-blue;
-  padding-bottom: 0.35rem;
-  border-bottom: 3px solid $peach;
-}
-
 // Heading styling
+// h1: royal blue with peach rule
+// h2 and h3: royal blue with yellow ochre rule
 
 .main-content h1:first-of-type {
-  color: $royal-blue;
-  padding-bottom: 0.35rem;
-  border-bottom: 3px solid $peach;
+  color: $royal-blue !important;
+  padding-bottom: 0.35rem !important;
+  border-bottom: 3px solid $peach !important;
 }
 
-.main-content h2,
+.main-content h2 {
+  color: $royal-blue !important;
+  padding-bottom: 0.3rem !important;
+  border-bottom: 2px solid $yellow-ochre !important;
+}
+
 .main-content h3 {
-  color: $royal-blue;
-  padding-bottom: 0.25rem;
-  border-bottom: 2px solid $yellow-ochre;
+  color: $royal-blue !important;
+  padding-bottom: 0.25rem !important;
+  border-bottom: 2px solid $yellow-ochre !important;
 }

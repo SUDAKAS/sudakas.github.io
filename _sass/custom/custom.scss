@@ -1,7 +1,7 @@
 // SUDAKAS custom styles
 // Executive Elites in Latin America and Southern Europe
 // This file keeps the default Just the Docs typography
-// and customises colours, navigation, callouts, tables, and figure styling
+// Customises colours, navigation, callouts, tables, and figure styling
 
 // Palette
 :root {
@@ -40,14 +40,28 @@ h6,
   font-weight: 700;
 }
 
+// Heading styling
+// h1: royal blue with peach rule
+// h2 and h3: royal blue with yellow ochre rule
+
+.main-content h1:first-of-type {
+  color: var(--sudakas-royal-blue) !important;
+  padding-bottom: 0.35rem !important;
+  border-bottom: 3px solid var(--sudakas-peach) !important;
+}
+
 .main-content h2 {
+  color: var(--sudakas-royal-blue) !important;
   margin-top: 2.2rem;
-  padding-bottom: 0.25rem;
-  border-bottom: 1px solid var(--sudakas-border);
+  padding-bottom: 0.3rem !important;
+  border-bottom: 2px solid var(--sudakas-yellow-ochre) !important;
 }
 
 .main-content h3 {
+  color: var(--sudakas-royal-blue) !important;
   margin-top: 1.6rem;
+  padding-bottom: 0.25rem !important;
+  border-bottom: 2px solid var(--sudakas-yellow-ochre) !important;
 }
 
 // Links
