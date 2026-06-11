@@ -7,12 +7,15 @@
 // Palette
 :root {
   --sudakas-royal-blue: #1d42a6;
-  --sudakas-sky-blue: #b9d6f2;
   --sudakas-yellow-ochre: #e2c044;
+  --sudakas-orange: #fb5607;
+
   --sudakas-text: #211d1c;
-  --sudakas-muted: #5c5962;
-  --sudakas-soft-bg: #f8f9fb;
-  --sudakas-border: #e6e6e6;
+  --sudakas-muted: #61615f;
+  --sudakas-bg: #ffffff;
+  --sudakas-soft-bg: #f2f0f0;
+  --sudakas-shell-bg: #f1eee9;
+  --sudakas-border: #d9d8d6;
 }
 
 // Typography
@@ -82,13 +85,14 @@ a:hover {
 
 .nav-list .nav-list-item .nav-list-link:hover {
   color: var(--sudakas-royal-blue);
-  background-color: rgba(185, 214, 242, 0.35);
+  background-color: rgba(226, 192, 68, 0.18);
 }
 
 .nav-list .nav-list-item.active > .nav-list-link {
   color: var(--sudakas-royal-blue);
   font-weight: 600;
-  background-color: rgba(185, 214, 242, 0.45);
+  background-color: rgba(226, 192, 68, 0.24);
+  border-left: 3px solid var(--sudakas-orange);
 }
 
 // Search
@@ -112,21 +116,32 @@ a:hover {
   background-color: darken(#1d42a6, 8%);
 }
 
+// Sharp accent utility
+
+.accent-orange {
+  color: var(--sudakas-orange);
+}
+
+.accent-rule {
+  border-left: 4px solid var(--sudakas-orange);
+  padding-left: 1rem;
+}
+
 // Callouts
 
 .note {
   border-left: 4px solid var(--sudakas-royal-blue);
-  background-color: rgba(185, 214, 242, 0.25);
+  background-color: rgba(29, 66, 166, 0.07);
 }
 
 .warning {
-  border-left: 4px solid var(--sudakas-yellow-ochre);
-  background-color: rgba(226, 192, 68, 0.18);
+  border-left: 4px solid var(--sudakas-orange);
+  background-color: rgba(251, 86, 7, 0.08);
 }
 
 .important {
-  border-left: 4px solid var(--sudakas-royal-blue);
-  background-color: rgba(29, 66, 166, 0.08);
+  border-left: 4px solid var(--sudakas-yellow-ochre);
+  background-color: rgba(226, 192, 68, 0.18);
 }
 
 // Tables
@@ -136,8 +151,12 @@ a:hover {
 }
 
 .main-content th {
-  background-color: rgba(185, 214, 242, 0.35);
+  background-color: rgba(226, 192, 68, 0.20);
   color: var(--sudakas-text);
+}
+
+.main-content tr:nth-child(even) {
+  background-color: rgba(241, 238, 233, 0.45);
 }
 
 // Images and figures
@@ -161,4 +180,26 @@ figcaption {
 
 .site-footer a {
   color: var(--sudakas-royal-blue);
+}
+
+// Small labels / badges for later use
+
+.sudakas-label {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background-color: rgba(226, 192, 68, 0.22);
+  color: var(--sudakas-text);
+}
+
+.sudakas-label-accent {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border-radius: 0.25rem;
+  font-size: 0.8rem;
+  font-weight: 500;
+  background-color: rgba(251, 86, 7, 0.10);
+  color: var(--sudakas-orange);
 }
