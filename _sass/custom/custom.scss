@@ -243,9 +243,19 @@ figcaption {
 }
 
 // Site logo
+// Just the Docs renders the configured logo through the site title area,
+// so target the title container itself rather than only an img element.
+
+.site-title {
+  min-height: 6rem !important;
+  height: 6rem !important;
+  background-size: contain !important;
+  background-position: left center !important;
+  background-repeat: no-repeat !important;
+}
 
 .site-title img {
-  max-height: 4.5rem;
-  max-width: 15rem;
-  width: auto;
+  max-height: 6rem !important;
+  max-width: 18rem !important;
+  width: auto !important;
 }
