@@ -1,9 +1,16 @@
 // SUDAKAS custom styles
 // Executive Elites in Latin America and Southern Europe
-// This file keeps the default Just the Docs typography
-// Customises colours, navigation, callouts, tables, and figure styling
+// Customises typography, colours, navigation, callouts, tables, and figure styling
+
+// Fonts
+// Open-source approximation:
+// - Titles: Montserrat Bold, similar to Gilmer Bold
+// - Body text: Hanken Grotesk Regular, similar to Hanken Book
+
+@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;600;700&family=Montserrat:wght@600;700;800&display=swap");
 
 // Palette
+
 :root {
   --sudakas-royal-blue: #1d42a6;
   --sudakas-yellow-ochre: #e2c044;
@@ -18,12 +25,12 @@
 }
 
 // Typography
-// The site keeps the default Just the Docs font stack.
-// No Google Fonts are imported here.
 
 body {
+  font-family: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--sudakas-text);
   line-height: 1.65;
+  font-weight: 400;
 }
 
 h1,
@@ -33,10 +40,23 @@ h4,
 h5,
 h6,
 .site-title {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--sudakas-text);
+  font-weight: 700;
+  letter-spacing: -0.01em;
 }
 
-.main-content h1 {
+.main-content {
+  font-family: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
+.main-content h1,
+.main-content h2,
+.main-content h3,
+.main-content h4,
+.main-content h5,
+.main-content h6 {
+  font-family: "Montserrat", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   font-weight: 700;
 }
 
@@ -92,6 +112,7 @@ a:hover {
 }
 
 .nav-list .nav-list-item .nav-list-link {
+  font-family: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
   color: var(--sudakas-text);
 }
 
@@ -109,11 +130,20 @@ a:hover {
 
 // Search
 
+.search-input {
+  font-family: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
+
 .search-input:focus {
   border-color: var(--sudakas-royal-blue);
 }
 
 // Buttons
+
+.btn,
+.btn-primary {
+  font-family: "Hanken Grotesk", system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+}
 
 .btn-primary {
   background-color: var(--sudakas-royal-blue);
