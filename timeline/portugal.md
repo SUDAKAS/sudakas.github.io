@@ -27,27 +27,32 @@ This subsection presents each competence separately before combining them into a
 
 <figure class="figure-frame">
   <img src="/assets/img/timeline/portugal/portugal_01_partisanship_by_government.png" alt="Partisanship among Portuguese ministers">
-  <figcaption>Partisanship among Portuguese ministers.</figcaption>
 </figure>
 
 ### Politicness
 
 <figure class="figure-frame">
   <img src="/assets/img/timeline/portugal/portugal_02_politicness_by_government.png" alt="Politicness among Portuguese ministers">
-  <figcaption>Politicness among Portuguese ministers.</figcaption>
 </figure>
 
 ### Academic
 
-Placeholder for figures and interpretation on academic credentials, higher education, and scholarly background.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_03_academic_expertise_by_government" alt="Academic background among Portuguese ministers">
+</figure>
 
 ### Occupational (Professional)
 
-Placeholder for figures and interpretation on occupational and professional background.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_04_occupational_expertise_by_government.png" alt="Occupational background among Portuguese ministers">
+</figure>
 
 ### Managerial
 
-Placeholder for figures and interpretation on managerial, executive, or organisational leadership experience.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_05_managerial_expertise_by_government.png" alt="Managerial experience among Portuguese ministers">
+</figure>
+
 
 ### Age & Sex
 
