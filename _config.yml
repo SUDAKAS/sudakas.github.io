@@ -6,6 +6,7 @@ url: "https://sudakas.github.io"
 baseurl: ""
 
 logo: "/assets/img/sudakas-logo.png"
+favicon_ico: "/assets/img/favicons/favicon.ico"
 
 aux_links:
   Repository: "https://github.com/SUDAKAS/sudakas.github.io"
