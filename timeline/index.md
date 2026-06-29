@@ -3,6 +3,7 @@ title: Timeline
 layout: default
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 # Timeline
@@ -15,7 +16,7 @@ Each country page follows a common structure. The first section provides an over
 
 - Greece
 - Italy
-- [Portugal](Portugal.html)
+- [Portugal](portugal.html)
 - Spain
 
 ## Common structure

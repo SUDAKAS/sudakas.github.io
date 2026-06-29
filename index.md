@@ -29,5 +29,5 @@ The first version of the prototype includes a timeline section for:
 
 - Greece
 - Italy
-- [Portugal](timeline/Portugal.html)
+- [Portugal](timeline/portugal.html)
 - Spain
