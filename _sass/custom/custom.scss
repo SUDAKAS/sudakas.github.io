@@ -210,6 +210,32 @@ figcaption {
   margin-top: 0.4rem;
 }
 
+// Framed figures for charts and visual outputs
+
+.figure-frame {
+  border: 1px solid var(--sudakas-border);
+  border-top: 4px solid var(--sudakas-yellow-ochre);
+  padding: 0.75rem;
+  margin: 1.25rem 0 2rem 0;
+  background-color: var(--sudakas-bg);
+  border-radius: 4px;
+}
+
+.figure-frame img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+  border-radius: 2px;
+}
+
+.figure-frame figcaption {
+  font-size: 0.9rem;
+  color: var(--sudakas-muted);
+  margin-top: 0.6rem;
+  text-align: center;
+}
+
 // Sidebar footer
 
 .site-footer {
