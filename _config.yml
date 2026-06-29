@@ -5,6 +5,8 @@ theme: just-the-docs
 url: "https://sudakas.github.io"
 baseurl: ""
 
+logo: "/assets/img/sudakas-logo.png"
+
 aux_links:
   Repository: "https://github.com/SUDAKAS/sudakas.github.io"
 
