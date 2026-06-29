@@ -53,56 +53,71 @@ This subsection presents each competence separately before combining them into a
   <img src="/assets/img/timeline/portugal/portugal_05_managerial_expertise_by_government.png" alt="Managerial experience among Portuguese ministers">
 </figure>
 
-
 ### Age & Sex
 
-Placeholder for figures and interpretation on age and sex composition.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_06_average_age_by_government_and_sex.png" alt="Age and sex composition among Portuguese ministers">
+</figure>
 
 ## 2.2. The Typology
 
 This subsection will present the typology of ministerial profiles used in the project.
 
-Placeholder for typology plot, table, and interpretation.
-
 ## 3. Analysing the Typology
-
-This section analyses how the typology varies across time, political context, institutional conditions, demographic attributes, and portfolio characteristics.
 
 ### By Time
 
-Placeholder for longitudinal figures and interpretation.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_08_typology_by_time.png" alt="Typology of ministerial profiles in Portugal by time">
+</figure>
 
 ### By Coalition Status
 
-Placeholder for figures comparing coalition and non-coalition governments.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_09_typology_by_coalition_status.png" alt="Typology of ministerial profiles in Portugal by coalition status">
+</figure>
 
 ### By Legislative Status
 
-Placeholder for figures comparing ministers with and without legislative status or parliamentary background.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_10_typology_by_legislative_status.png" alt="Typology of ministerial profiles in Portugal by legislative status">
+</figure>
 
 ### By PM’s Party
 
-Placeholder for figures comparing ministers by whether they belong to the prime minister’s party.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_11_typology_by_prime_minister_party.png" alt="Typology of ministerial profiles in Portugal by prime minister's party">
+</figure>
 
 ### By Ministers’ Party
 
-Placeholder for figures comparing ministerial profiles across parties.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_12_typology_by_minister_party.png" alt="Typology of ministerial profiles in Portugal by ministers' party">
+</figure>
 
 ### By Gender
 
-Placeholder for figures and interpretation on gender differences in ministerial profiles.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_13_typology_by_sex.png" alt="Typology of ministerial profiles in Portugal by gender">
+</figure>
 
 ### By Age
 
-Placeholder for figures and interpretation on age differences in ministerial profiles.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_14_typology_by_age.png" alt="Typology of ministerial profiles in Portugal by age">
+</figure>
 
 ### By Core Portfolios Status
 
-Placeholder for figures comparing core and non-core portfolios.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_15_typology_by_core_portfolio_status.png" alt="Typology of ministerial profiles in Portugal by core portfolio status">
+</figure>
 
 ### By Portfolios’ Field
 
-Placeholder for figures comparing ministerial profiles across policy fields.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_16_typology_by_portfolio_field.png" alt="Typology of ministerial profiles in Portugal by portfolio field">
+</figure>
 
 ## Conclusions
 
