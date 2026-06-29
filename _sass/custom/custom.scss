@@ -245,17 +245,32 @@ figcaption {
 // Site logo
 // Just the Docs renders the configured logo through the site title area,
 // so target the title container itself rather than only an img element.
+// The logo height is responsive and slightly smaller than before.
 
 .site-title {
-  min-height: 6rem !important;
-  height: 6rem !important;
+  min-height: clamp(4.25rem, 7vw, 5.25rem) !important;
+  height: clamp(4.25rem, 7vw, 5.25rem) !important;
   background-size: contain !important;
   background-position: left center !important;
   background-repeat: no-repeat !important;
 }
 
 .site-title img {
-  max-height: 4.5rem !important;
-  max-width: 15rem !important;
+  max-height: clamp(3.5rem, 6vw, 4.25rem) !important;
+  max-width: 14rem !important;
   width: auto !important;
+}
+
+// Slightly smaller logo on narrow screens
+
+@media (max-width: 50rem) {
+  .site-title {
+    min-height: 4rem !important;
+    height: 4rem !important;
+  }
+
+  .site-title img {
+    max-height: 3.5rem !important;
+    max-width: 12rem !important;
+  }
 }
