@@ -38,7 +38,7 @@ This subsection presents each competence separately before combining them into a
 ### Academic
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_03_academic_expertise_by_government" alt="Academic background among Portuguese ministers">
+  <img src="/assets/img/timeline/portugal/portugal_03_academic_expertise_by_government.png" alt="Academic background among Portuguese ministers">
 </figure>
 
 ### Occupational (Professional)
