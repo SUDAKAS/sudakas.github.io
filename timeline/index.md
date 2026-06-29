@@ -15,7 +15,7 @@ Each country page follows a common structure. The first section provides an over
 
 - Greece
 - Italy
-- Portugal
+- [Portugal](timeline/Portugal.html)
 - Spain
 
 ## Common structure
