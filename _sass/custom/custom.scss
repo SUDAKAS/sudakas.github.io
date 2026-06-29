@@ -241,3 +241,11 @@ figcaption {
   background-color: rgba(224, 141, 121, 0.14);
   color: #9e4f40;
 }
+
+// Site logo
+
+.site-title img {
+  max-height: 3rem;
+  max-width: 12rem;
+  width: auto;
+}
