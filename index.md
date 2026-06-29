@@ -4,7 +4,7 @@ layout: home
 nav_order: 1
 ---
 
-# Executive Elites in Latin America and Southern Europe
+# SUDAKAS. Executive Elites in Latin America and Southern Europe
 
 This website is a prototype for an academic project on executive elites, political careers, and government composition in Latin America and Southern Europe.
 
