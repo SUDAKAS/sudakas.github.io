@@ -25,11 +25,17 @@ This subsection presents each competence separately before combining them into a
 
 ### Partisanship
 
-Placeholder for figures and interpretation on partisan background.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_01_partisanship_by_government.png" alt="Partisanship among Portuguese ministers">
+  <figcaption>Partisanship among Portuguese ministers.</figcaption>
+</figure>
 
 ### Politicness
 
-Placeholder for figures and interpretation on political experience and political embeddedness.
+<figure class="figure-frame">
+  <img src="/assets/img/timeline/portugal/portugal_02_politicness_by_government.png" alt="Politicness among Portuguese ministers">
+  <figcaption>Politicness among Portuguese ministers.</figcaption>
+</figure>
 
 ### Academic
 
