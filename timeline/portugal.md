@@ -68,55 +68,55 @@ This subsection will present the typology of ministerial profiles used in the pr
 ### By Time
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_08_typology_by_time.png" alt="Typology of ministerial profiles in Portugal by time">
+  <img src="/assets/img/timeline/portugal/portugal_07_typology_by_time.png" alt="Typology of ministerial profiles in Portugal by time">
 </figure>
 
 ### By Coalition Status
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_09_typology_by_coalition_status.png" alt="Typology of ministerial profiles in Portugal by coalition status">
+  <img src="/assets/img/timeline/portugal/portugal_08_typology_by_coalition_status.png" alt="Typology of ministerial profiles in Portugal by coalition status">
 </figure>
 
 ### By Legislative Status
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_10_typology_by_legislative_status.png" alt="Typology of ministerial profiles in Portugal by legislative status">
+  <img src="/assets/img/timeline/portugal/portugal_09_typology_by_legislative_status.png" alt="Typology of ministerial profiles in Portugal by legislative status">
 </figure>
 
 ### By PM’s Party
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_11_typology_by_prime_minister_party.png" alt="Typology of ministerial profiles in Portugal by prime minister's party">
+  <img src="/assets/img/timeline/portugal/portugal_10_typology_by_prime_minister_party.png" alt="Typology of ministerial profiles in Portugal by prime minister's party">
 </figure>
 
 ### By Ministers’ Party
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_12_typology_by_minister_party.png" alt="Typology of ministerial profiles in Portugal by ministers' party">
+  <img src="/assets/img/timeline/portugal/portugal_11_typology_by_minister_party.png" alt="Typology of ministerial profiles in Portugal by ministers' party">
 </figure>
 
 ### By Gender
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_13_typology_by_sex.png" alt="Typology of ministerial profiles in Portugal by gender">
+  <img src="/assets/img/timeline/portugal/portugal_12_typology_by_sex.png" alt="Typology of ministerial profiles in Portugal by gender">
 </figure>
 
 ### By Age
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_14_typology_by_age.png" alt="Typology of ministerial profiles in Portugal by age">
+  <img src="/assets/img/timeline/portugal/portugal_13_typology_by_age.png" alt="Typology of ministerial profiles in Portugal by age">
 </figure>
 
 ### By Core Portfolios Status
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_15_typology_by_core_portfolio_status.png" alt="Typology of ministerial profiles in Portugal by core portfolio status">
+  <img src="/assets/img/timeline/portugal/portugal_14_typology_by_core_portfolio_status.png" alt="Typology of ministerial profiles in Portugal by core portfolio status">
 </figure>
 
 ### By Portfolios’ Field
 
 <figure class="figure-frame">
-  <img src="/assets/img/timeline/portugal/portugal_16_typology_by_portfolio_field.png" alt="Typology of ministerial profiles in Portugal by portfolio field">
+  <img src="/assets/img/timeline/portugal/portugal_15_typology_by_portfolio_field.png" alt="Typology of ministerial profiles in Portugal by portfolio field">
 </figure>
 
 ## Conclusions
